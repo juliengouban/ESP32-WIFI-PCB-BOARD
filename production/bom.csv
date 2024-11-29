@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0402,1,100nf,
+D1,0402,1,LED,
+J1,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,1,USB_B_Micro,
+J3,PinHeader_1x03_P1.27mm_Vertical,1,Conn_01x03_Pin,
+U1,SOT-223-3_TabPin2,1,NCP1117-3.3_SOT223,
+U2,XCVR_ESP32-S3-MINI-1-N8,1,ESP32-S3-MINI-1-N8,
