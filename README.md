@@ -53,7 +53,7 @@ Here is a 3d view of the PCB:
 
 ![alt text 1](esp32_image/esp32_5.png) 
 
-Here is a 3d view of the PCB:
+
 
 
 
