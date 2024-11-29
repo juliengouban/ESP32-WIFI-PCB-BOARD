@@ -50,6 +50,7 @@ The design was carried out using KiCad, and manufacturing was entrusted to JLCPC
 ![alt text 1](esp32_image/esp32_4.png) 
 
 Here is a 3d view of the PCB:
+
 ![alt text 1](esp32_image/esp32_5.png) 
 
 Here is a 3d view of the PCB:
